@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sloom\\OneDrive\\Desktop\\junit-3.8.1.jar"
+    ]
+}
